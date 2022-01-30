@@ -1,0 +1,17 @@
+{
+  "name": "carrier-data",
+  "version": "1.0.0",
+  "description": "package delivery pricing exercise",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gcoutini",
+  "license": "ISC",
+  "dependencies": {
+    "any-to-any": "^4.1.0",
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
